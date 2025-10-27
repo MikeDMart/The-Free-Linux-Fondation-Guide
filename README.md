@@ -209,29 +209,194 @@ Click any course code below to learn more • All courses available at trainingp
 Total: 61 FREE courses with digital badges 🎖️
 </div>
 
-## 📚 All Course Codes
-
+📖 All Courses Detail
 <div align="center">
-
-> **Copy any code below and paste it at [trainingportal.linuxfoundation.org](https://trainingportal.linuxfoundation.org/)**
-
+🔍 Course Descriptions
 </div>
-
-```
-LFEL1012  LFC191   LFD140   LFEL1004  LFS184   LFD123   LFEL1001  LFD125   LFD141   LFS120
-LFEL1009  LFS148   LFEL1016 LFEL1010  LFS111   LFS147   LFEL1011  LFC120   LFEL1014 LFD110
-LFS183    LFS179   LFC114   LFC112    LFC111   LFEL1002 LFD137    LFS118   LFEL1007 LFS146
-LFEL1006  LFEL1005 LFEL1003 LFQ102    LFEL1000 LFD134   LFS144    LFD133   LFS145   LFC108
-LFS101    LFC105   LFC131   LFS142    LFS116   LFD116   LFQ101    LFS182   LFS180   LFC194
-LFC104    LFS162   LFS157   LFS170    LFD121   LFS167   LFC193    LFW111X  LFS169   LFC102
-LFD103
-```
-
-<div align="center">
-
-**Total:** `61 FREE courses` with digital badges 🎖️
-
-</div>
+<details id="lfs101">
+<summary><b>🐧 LFS101 - Introduction to Linux</b></summary>
+<br>
+<p>
+<b>Category:</b> Core Linux & SysAdmin<br>
+<b>Level:</b> Beginner<br>
+<b>Duration:</b> ~14 hours<br>
+<br>
+<b>Description:</b><br>
+Learn the fundamentals of Linux and open source development. This course covers essential Linux commands, file systems, shell scripting basics, and system administration fundamentals. Perfect for anyone starting their journey in Linux/DevOps.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS101-0066CC?style=for-the-badge&logo=linux" alt="Enroll LFS101"/></a>
+</p>
+</details>
+<details id="lfs162">
+<summary><b>🚀 LFS162 - Introduction to DevOps and Site Reliability Engineering</b></summary>
+<br>
+<p>
+<b>Category:</b> Cloud & DevOps<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~16 hours<br>
+<br>
+<b>Description:</b><br>
+Master DevOps principles and SRE practices. Learn CI/CD pipelines, infrastructure as code, monitoring, and automation. Essential for modern software delivery.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS162-00C853?style=for-the-badge&logo=docker" alt="Enroll LFS162"/></a>
+</p>
+</details>
+<details id="lfc108">
+<summary><b>🔒 LFC108 - Cybersecurity Essentials</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Beginner<br>
+<b>Duration:</b> ~12 hours<br>
+<br>
+<b>Description:</b><br>
+Understand fundamental cybersecurity concepts, threat landscapes, encryption, network security, and security best practices applicable to any role.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFC108-E53935?style=for-the-badge&logo=security" alt="Enroll LFC108"/></a>
+</p>
+</details>
+<details id="lfs169">
+<summary><b>🔄 LFS169 - Introduction to GitOps</b></summary>
+<br>
+<p>
+<b>Category:</b> Cloud & DevOps<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~10 hours<br>
+<br>
+<b>Description:</b><br>
+Learn GitOps methodology for cloud-native deployments. Covers Flux, ArgoCD, and declarative infrastructure management using Git as the source of truth.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS169-FF6B35?style=for-the-badge&logo=git" alt="Enroll LFS169"/></a>
+</p>
+</details>
+<details id="lfs182">
+<summary><b>🔗 LFS182 - Securing Your Software Supply Chain with Sigstore</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~8 hours<br>
+<br>
+<b>Description:</b><br>
+Learn to secure your software supply chain using Sigstore tools. Critical knowledge for modern cloud security and DevSecOps practices.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS182-9C27B0?style=for-the-badge&logo=shield" alt="Enroll LFS182"/></a>
+</p>
+</details>
+<details id="lfd121">
+<summary><b>🛡️ LFD121 - Developing Secure Software</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~15 hours<br>
+<br>
+<b>Description:</b><br>
+Comprehensive course on secure software development practices, vulnerability assessment, threat modeling, and security testing.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFD121-E53935?style=for-the-badge&logo=codesandbox" alt="Enroll LFD121"/></a>
+</p>
+</details>
+<details id="lfs167">
+<summary><b>⚙️ LFS167 - Introduction to Jenkins</b></summary>
+<br>
+<p>
+<b>Category:</b> CI/CD & Automation<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~12 hours<br>
+<br>
+<b>Description:</b><br>
+Master Jenkins for CI/CD automation. Learn pipeline creation, plugin management, and integration with modern DevOps tools.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS167-D24939?style=for-the-badge&logo=jenkins" alt="Enroll LFS167"/></a>
+</p>
+</details>
+<details id="lfs148">
+<summary><b>📊 LFS148 - Getting Started with OpenTelemetry</b></summary>
+<br>
+<p>
+<b>Category:</b> Observability & Monitoring<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~10 hours<br>
+<br>
+<b>Description:</b><br>
+Learn OpenTelemetry for observability in cloud-native applications. Covers tracing, metrics, and logging in distributed systems.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS148-FF6B35?style=for-the-badge&logo=opentelemetry" alt="Enroll LFS148"/></a>
+</p>
+</details>
+<details id="lfs144">
+<summary><b>🕸️ LFS144 - Introduction to Istio</b></summary>
+<br>
+<p>
+<b>Category:</b> Kubernetes & Containers<br>
+<b>Level:</b> Advanced<br>
+<b>Duration:</b> ~12 hours<br>
+<br>
+<b>Description:</b><br>
+Master Istio service mesh for microservices architecture. Learn traffic management, security, and observability in Kubernetes.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS144-466BB0?style=for-the-badge&logo=istio" alt="Enroll LFS144"/></a>
+</p>
+</details>
+<details id="lfs146">
+<summary><b>🐝 LFS146 - Introduction to Cilium</b></summary>
+<br>
+<p>
+<b>Category:</b> Kubernetes & Containers<br>
+<b>Level:</b> Advanced<br>
+<b>Duration:</b> ~10 hours<br>
+<br>
+<b>Description:</b><br>
+Learn eBPF-based networking and security with Cilium. Advanced container networking and security policies for Kubernetes.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS146-F8C517?style=for-the-badge&logo=cilium" alt="Enroll LFS146"/></a>
+</p>
+</details>
+<details id="lfd103">
+<summary><b>🔧 LFD103 - A Beginner's Guide to Linux Kernel Development</b></summary>
+<br>
+<p>
+<b>Category:</b> Core Linux & SysAdmin<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~14 hours<br>
+<br>
+<b>Description:</b><br>
+Introduction to Linux kernel development, including kernel architecture, development workflow, and contribution process.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFD103-0066CC?style=for-the-badge&logo=linux" alt="Enroll LFD103"/></a>
+</p>
+</details>
+<details id="lfs183">
+<summary><b>🛡️ LFS183 - Introduction to Zero Trust</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~10 hours<br>
+<br>
+<b>Description:</b><br>
+Learn Zero Trust security architecture principles and implementation strategies for modern cloud environments.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS183-E53935?style=for-the-badge&logo=verified" alt="Enroll LFS183"/></a>
+</p>
+</details>
+<details id="lfs184">
+<summary><b>🔐 LFS184 - Introduction to JavaScript Security</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~8 hours<br>
+<br>
+<b>Description:</b><br>
+Comprehensive JavaScript security course covering common vulnerabilities, secure coding practices, and security testing.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS184-E53935?style=for-the-badge&logo=javascript" alt="Enroll LFS184"/></a>
+</p>
+</details>
+<details id="lfs157">
+<summary><b>
 
 ---
 
