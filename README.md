@@ -1,7 +1,10 @@
 <div align="center">
-🚀 Linux Foundation Free Courses & Badges
-100% FREE courses with completion badges from The Linux Foundation
-No credit card • No hidden fees • Lifetime access to badges
+
+# 🚀 Linux Foundation Free Courses & Badges
+
+### **100% FREE courses with completion badges** from The Linux Foundation
+**No credit card • No hidden fees • Lifetime access to badges**
+
 <p align="center">
   <a href="https://trainingportal.linuxfoundation.org/">
     <img src="https://img.shields.io/badge/Linux_Foundation-Official-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation"/>
@@ -13,6 +16,7 @@ No credit card • No hidden fees • Lifetime access to badges
     <img src="https://img.shields.io/badge/Start-Learning-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Start Learning"/>
   </a>
 </p>
+
 <p align="center">
   <a href="#-quick-start">
     <img src="https://img.shields.io/badge/Quick_Start-0066CC?style=flat-square&logo=rocket" alt="Quick Start"/>
@@ -38,112 +42,169 @@ No credit card • No hidden fees • Lifetime access to badges
     <img src="https://img.shields.io/badge/FAQ-FFD700?style=flat-square&logo=question" alt="FAQ"/>
   </a>
 </p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
+
 </div>
-🎯 Quick Start
+
+## 🎯 Quick Start
+
 <div align="center">
-```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│ Visit Portal│ --> │Create Account│ --> │Enter Code   │ --> │Start Learning│ --> │Earn Badge 🏆│
-└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
-```
+┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+│ Visit Portal│ --> │Create Account│ --> │Enter Code │ --> │Start Learning│ --> │Earn Badge 🏆│
+└─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘
+
+text
+
 <br>
+
 <a href="https://trainingportal.linuxfoundation.org/">
   <img src="https://img.shields.io/badge/🎓_ENROLL_NOW-Linux_Foundation_Portal-0066CC?style=for-the-badge&labelColor=000000" alt="Enroll Now" height="50"/>
 </a>
+
 </div>
 
-🏆 Top 10 Must-Take Courses
+---
+
+## 🏆 Top 10 Must-Take Courses
+
 <div align="center">
-🥇 TIER 1 - Essential Foundation
+
+### 🥇 **TIER 1 - Essential Foundation**
+
 <table>
 <tr>
 <td width="20%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs101">
 <img src="https://img.shields.io/badge/LFS101-Linux_Fundamentals-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
 </a>
-⭐⭐⭐⭐⭐
-The absolute foundation - START HERE
+
+**⭐⭐⭐⭐⭐**
+
+*The absolute foundation - START HERE*
+
 </td>
 <td width="20%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs162">
 <img src="https://img.shields.io/badge/LFS162-DevOps_&_SRE-00C853?style=for-the-badge&logo=docker&logoColor=white" alt="LFS162"/>
 </a>
-⭐⭐⭐⭐⭐
-Core DevOps methodology
+
+**⭐⭐⭐⭐⭐**
+
+*Core DevOps methodology*
+
 </td>
 <td width="20%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfc108">
 <img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-E53935?style=for-the-badge&logo=security&logoColor=white" alt="LFC108"/>
 </a>
-⭐⭐⭐⭐⭐
-Security fundamentals
+
+**⭐⭐⭐⭐⭐**
+
+*Security fundamentals*
+
 </td>
 <td width="20%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs169">
 <img src="https://img.shields.io/badge/LFS169-GitOps-FF6B35?style=for-the-badge&logo=git&logoColor=white" alt="LFS169"/>
 </a>
-⭐⭐⭐⭐⭐
-Modern deployment standard
+
+**⭐⭐⭐⭐⭐**
+
+*Modern deployment standard*
+
 </td>
 <td width="20%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs182">
 <img src="https://img.shields.io/badge/LFS182-Supply_Chain_Security-9C27B0?style=for-the-badge&logo=shield&logoColor=white" alt="LFS182"/>
 </a>
-⭐⭐⭐⭐⭐
-Critical cloud security
+
+**⭐⭐⭐⭐⭐**
+
+*Critical cloud security*
+
 </td>
 </tr>
 </table>
-🥈 TIER 2 - Level Up
+
+### 🥈 **TIER 2 - Level Up**
+
 <table>
 <tr>
 <td width="33%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfd121">
 <img src="https://img.shields.io/badge/LFD121-Secure_Software-E53935?style=for-the-badge&logo=codesandbox&logoColor=white" alt="LFD121"/>
 </a>
-Secure coding practices
+
+**Secure coding practices**
+
 </td>
 <td width="33%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs167">
 <img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/>
 </a>
-CI/CD automation
+
+**CI/CD automation**
+
 </td>
 <td width="33%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs148">
 <img src="https://img.shields.io/badge/LFS148-OpenTelemetry-FF6B35?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/>
 </a>
-Observability & monitoring
+
+**Observability & monitoring**
+
 </td>
 </tr>
 </table>
-🥉 TIER 3 - Advanced Mastery
+
+### 🥉 **TIER 3 - Advanced Mastery**
+
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs144">
 <img src="https://img.shields.io/badge/LFS144-Istio_Service_Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/>
 </a>
-Advanced K8s networking
+
+**Advanced K8s networking**
+
 </td>
 <td width="50%" align="center">
-<a href="https://trainingportal.linuxfoundation.org/">
+
+<a href="#lfs146">
 <img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/>
 </a>
-eBPF-based networking & security
+
+**eBPF-based networking & security**
+
 </td>
 </tr>
 </table>
+
 </div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
-📚 All Course Codes
+
+## 📚 All Course Codes
+
 <div align="center">
 
-Click any course code below to learn more • All courses available at trainingportal.linuxfoundation.org
+> **Click any course code below to learn more • All courses available at [trainingportal.linuxfoundation.org](https://trainingportal.linuxfoundation.org/)**
 
 <br>
-🔤 Browse by Code
+
+### 🔤 **Browse by Code**
+
 <a href="#lfel1012"><img src="https://img.shields.io/badge/LFEL1012-0066CC?style=for-the-badge" alt="LFEL1012"/></a>
 <a href="#lfc191"><img src="https://img.shields.io/badge/LFC191-0066CC?style=for-the-badge" alt="LFC191"/></a>
 <a href="#lfd140"><img src="https://img.shields.io/badge/LFD140-0066CC?style=for-the-badge" alt="LFD140"/></a>
@@ -154,6 +215,7 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfd125"><img src="https://img.shields.io/badge/LFD125-0066CC?style=for-the-badge" alt="LFD125"/></a>
 <a href="#lfd141"><img src="https://img.shields.io/badge/LFD141-0066CC?style=for-the-badge" alt="LFD141"/></a>
 <a href="#lfs120"><img src="https://img.shields.io/badge/LFS120-0066CC?style=for-the-badge" alt="LFS120"/></a>
+
 <a href="#lfel1009"><img src="https://img.shields.io/badge/LFEL1009-00C853?style=for-the-badge" alt="LFEL1009"/></a>
 <a href="#lfs148"><img src="https://img.shields.io/badge/LFS148-FF6B35?style=for-the-badge" alt="LFS148"/></a>
 <a href="#lfel1016"><img src="https://img.shields.io/badge/LFEL1016-0066CC?style=for-the-badge" alt="LFEL1016"/></a>
@@ -164,6 +226,7 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfc120"><img src="https://img.shields.io/badge/LFC120-0066CC?style=for-the-badge" alt="LFC120"/></a>
 <a href="#lfel1014"><img src="https://img.shields.io/badge/LFEL1014-9C27B0?style=for-the-badge" alt="LFEL1014"/></a>
 <a href="#lfd110"><img src="https://img.shields.io/badge/LFD110-0066CC?style=for-the-badge" alt="LFD110"/></a>
+
 <a href="#lfs183"><img src="https://img.shields.io/badge/LFS183-E53935?style=for-the-badge" alt="LFS183"/></a>
 <a href="#lfs179"><img src="https://img.shields.io/badge/LFS179-0066CC?style=for-the-badge" alt="LFS179"/></a>
 <a href="#lfc114"><img src="https://img.shields.io/badge/LFC114-0066CC?style=for-the-badge" alt="LFC114"/></a>
@@ -174,6 +237,7 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfs118"><img src="https://img.shields.io/badge/LFS118-0066CC?style=for-the-badge" alt="LFS118"/></a>
 <a href="#lfel1007"><img src="https://img.shields.io/badge/LFEL1007-E53935?style=for-the-badge" alt="LFEL1007"/></a>
 <a href="#lfs146"><img src="https://img.shields.io/badge/LFS146-F8C517?style=for-the-badge" alt="LFS146"/></a>
+
 <a href="#lfel1006"><img src="https://img.shields.io/badge/LFEL1006-E53935?style=for-the-badge" alt="LFEL1006"/></a>
 <a href="#lfel1005"><img src="https://img.shields.io/badge/LFEL1005-0066CC?style=for-the-badge" alt="LFEL1005"/></a>
 <a href="#lfel1003"><img src="https://img.shields.io/badge/LFEL1003-0066CC?style=for-the-badge" alt="LFEL1003"/></a>
@@ -184,6 +248,7 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfd133"><img src="https://img.shields.io/badge/LFD133-0066CC?style=for-the-badge" alt="LFD133"/></a>
 <a href="#lfs145"><img src="https://img.shields.io/badge/LFS145-0066CC?style=for-the-badge" alt="LFS145"/></a>
 <a href="#lfc108"><img src="https://img.shields.io/badge/LFC108-E53935?style=for-the-badge" alt="LFC108"/></a>
+
 <a href="#lfs101"><img src="https://img.shields.io/badge/LFS101-0066CC?style=for-the-badge" alt="LFS101"/></a>
 <a href="#lfc105"><img src="https://img.shields.io/badge/LFC105-0066CC?style=for-the-badge" alt="LFC105"/></a>
 <a href="#lfc131"><img src="https://img.shields.io/badge/LFC131-0066CC?style=for-the-badge" alt="LFC131"/></a>
@@ -194,6 +259,7 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfs182"><img src="https://img.shields.io/badge/LFS182-9C27B0?style=for-the-badge" alt="LFS182"/></a>
 <a href="#lfs180"><img src="https://img.shields.io/badge/LFS180-0066CC?style=for-the-badge" alt="LFS180"/></a>
 <a href="#lfc194"><img src="https://img.shields.io/badge/LFC194-0066CC?style=for-the-badge" alt="LFC194"/></a>
+
 <a href="#lfc104"><img src="https://img.shields.io/badge/LFC104-0066CC?style=for-the-badge" alt="LFC104"/></a>
 <a href="#lfs162"><img src="https://img.shields.io/badge/LFS162-00C853?style=for-the-badge" alt="LFS162"/></a>
 <a href="#lfs157"><img src="https://img.shields.io/badge/LFS157-00C853?style=for-the-badge" alt="LFS157"/></a>
@@ -204,15 +270,25 @@ Click any course code below to learn more • All courses available at trainingp
 <a href="#lfw111x"><img src="https://img.shields.io/badge/LFW111X-0066CC?style=for-the-badge" alt="LFW111X"/></a>
 <a href="#lfs169"><img src="https://img.shields.io/badge/LFS169-FF6B35?style=for-the-badge" alt="LFS169"/></a>
 <a href="#lfc102"><img src="https://img.shields.io/badge/LFC102-0066CC?style=for-the-badge" alt="LFC102"/></a>
+
 <a href="#lfd103"><img src="https://img.shields.io/badge/LFD103-0066CC?style=for-the-badge" alt="LFD103"/></a>
+
 <br><br>
-Total: 61 FREE courses with digital badges 🎖️
+
+**Total:** `61 FREE courses` with digital badges 🎖️
+
 </div>
 
-📖 All Courses Detail
+---
+
+## 📖 All Courses Detail
+
 <div align="center">
-🔍 Course Descriptions
+
+### 🔍 **Course Descriptions**
+
 </div>
+
 <details id="lfs101">
 <summary><b>🐧 LFS101 - Introduction to Linux</b></summary>
 <br>
@@ -227,6 +303,7 @@ Learn the fundamentals of Linux and open source development. This course covers 
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS101-0066CC?style=for-the-badge&logo=linux" alt="Enroll LFS101"/></a>
 </p>
 </details>
+
 <details id="lfs162">
 <summary><b>🚀 LFS162 - Introduction to DevOps and Site Reliability Engineering</b></summary>
 <br>
@@ -241,6 +318,7 @@ Master DevOps principles and SRE practices. Learn CI/CD pipelines, infrastructur
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS162-00C853?style=for-the-badge&logo=docker" alt="Enroll LFS162"/></a>
 </p>
 </details>
+
 <details id="lfc108">
 <summary><b>🔒 LFC108 - Cybersecurity Essentials</b></summary>
 <br>
@@ -255,6 +333,7 @@ Understand fundamental cybersecurity concepts, threat landscapes, encryption, ne
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFC108-E53935?style=for-the-badge&logo=security" alt="Enroll LFC108"/></a>
 </p>
 </details>
+
 <details id="lfs169">
 <summary><b>🔄 LFS169 - Introduction to GitOps</b></summary>
 <br>
@@ -269,8 +348,9 @@ Learn GitOps methodology for cloud-native deployments. Covers Flux, ArgoCD, and 
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS169-FF6B35?style=for-the-badge&logo=git" alt="Enroll LFS169"/></a>
 </p>
 </details>
+
 <details id="lfs182">
-<summary><b>🔗 LFS182 - Securing Your Software Supply Chain with Sigstore</b></summary>
+<summary><b>🔗 LFS182 - Securing Your Software Supply Chain with SigStore</b></summary>
 <br>
 <p>
 <b>Category:</b> Security & Hardening<br>
@@ -278,11 +358,12 @@ Learn GitOps methodology for cloud-native deployments. Covers Flux, ArgoCD, and 
 <b>Duration:</b> ~8 hours<br>
 <br>
 <b>Description:</b><br>
-Learn to secure your software supply chain using Sigstore tools. Critical knowledge for modern cloud security and DevSecOps practices.
+Learn to secure your software supply chain using SigStore tools. Critical knowledge for modern cloud security and DevSecOps practices.
 <br><br>
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS182-9C27B0?style=for-the-badge&logo=shield" alt="Enroll LFS182"/></a>
 </p>
 </details>
+
 <details id="lfd121">
 <summary><b>🛡️ LFD121 - Developing Secure Software</b></summary>
 <br>
@@ -297,6 +378,7 @@ Comprehensive course on secure software development practices, vulnerability ass
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFD121-E53935?style=for-the-badge&logo=codesandbox" alt="Enroll LFD121"/></a>
 </p>
 </details>
+
 <details id="lfs167">
 <summary><b>⚙️ LFS167 - Introduction to Jenkins</b></summary>
 <br>
@@ -311,6 +393,7 @@ Master Jenkins for CI/CD automation. Learn pipeline creation, plugin management,
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS167-D24939?style=for-the-badge&logo=jenkins" alt="Enroll LFS167"/></a>
 </p>
 </details>
+
 <details id="lfs148">
 <summary><b>📊 LFS148 - Getting Started with OpenTelemetry</b></summary>
 <br>
@@ -325,6 +408,7 @@ Learn OpenTelemetry for observability in cloud-native applications. Covers traci
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS148-FF6B35?style=for-the-badge&logo=opentelemetry" alt="Enroll LFS148"/></a>
 </p>
 </details>
+
 <details id="lfs144">
 <summary><b>🕸️ LFS144 - Introduction to Istio</b></summary>
 <br>
@@ -339,6 +423,7 @@ Master Istio service mesh for microservices architecture. Learn traffic manageme
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS144-466BB0?style=for-the-badge&logo=istio" alt="Enroll LFS144"/></a>
 </p>
 </details>
+
 <details id="lfs146">
 <summary><b>🐝 LFS146 - Introduction to Cilium</b></summary>
 <br>
@@ -353,6 +438,7 @@ Learn eBPF-based networking and security with Cilium. Advanced container network
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS146-F8C517?style=for-the-badge&logo=cilium" alt="Enroll LFS146"/></a>
 </p>
 </details>
+
 <details id="lfd103">
 <summary><b>🔧 LFD103 - A Beginner's Guide to Linux Kernel Development</b></summary>
 <br>
@@ -367,6 +453,7 @@ Introduction to Linux kernel development, including kernel architecture, develop
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFD103-0066CC?style=for-the-badge&logo=linux" alt="Enroll LFD103"/></a>
 </p>
 </details>
+
 <details id="lfs183">
 <summary><b>🛡️ LFS183 - Introduction to Zero Trust</b></summary>
 <br>
@@ -381,6 +468,7 @@ Learn Zero Trust security architecture principles and implementation strategies 
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS183-E53935?style=for-the-badge&logo=verified" alt="Enroll LFS183"/></a>
 </p>
 </details>
+
 <details id="lfs184">
 <summary><b>🔐 LFS184 - Introduction to JavaScript Security</b></summary>
 <br>
@@ -395,10 +483,100 @@ Comprehensive JavaScript security course covering common vulnerabilities, secure
 <a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS184-E53935?style=for-the-badge&logo=javascript" alt="Enroll LFS184"/></a>
 </p>
 </details>
-<details id="lfs157">
-<summary><b>
 
----
+<details id="lfs157">
+<summary><b>☁️ LFS157 - Introduction to Serverless on Kubernetes</b></summary>
+<br>
+<p>
+<b>Category:</b> Cloud & DevOps<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~10 hours<br>
+<br>
+<b>Description:</b><br>
+Learn serverless computing concepts and implementation on Kubernetes platforms like Knative and OpenFaaS.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS157-00C853?style=for-the-badge&logo=kubernetes" alt="Enroll LFS157"/></a>
+</p>
+</details>
+
+<details id="lfel1009">
+<summary><b>🏗️ LFEL1009 - Getting Started with OpenTofu</b></summary>
+<br>
+<p>
+<b>Category:</b> Cloud & DevOps<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~8 hours<br>
+<br>
+<b>Description:</b><br>
+Learn Infrastructure as Code with OpenTofu, the open-source Terraform alternative. Master cloud infrastructure automation.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFEL1009-00C853?style=for-the-badge&logo=terraform" alt="Enroll LFEL1009"/></a>
+</p>
+</details>
+
+<details id="lfel1006">
+<summary><b>📊 LFEL1006 - Securing Projects with OpenSSF Scorecard</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~6 hours<br>
+<br>
+<b>Description:</b><br>
+Learn to use OpenSSF Scorecard to assess and improve the security posture of open source projects.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFEL1006-E53935?style=for-the-badge&logo=opensourceinitiative" alt="Enroll LFEL1006"/></a>
+</p>
+</details>
+
+<details id="lfel1007">
+<summary><b>🤖 LFEL1007 - Automating Supply Chain Security</b></summary>
+<br>
+<p>
+<b>Category:</b> Security & Hardening<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~7 hours<br>
+<br>
+<b>Description:</b><br>
+Automate software supply chain security using modern tools and practices for continuous security validation.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFEL1007-E53935?style=for-the-badge&logo=ansible" alt="Enroll LFEL1007"/></a>
+</p>
+</details>
+
+<details id="lfel1014">
+<summary><b>📈 LFEL1014 - Scaling Cloud Native Applications with KEDA</b></summary>
+<br>
+<p>
+<b>Category:</b> Kubernetes & Containers<br>
+<b>Level:</b> Advanced<br>
+<b>Duration:</b> ~9 hours<br>
+<br>
+<b>Description:</b><br>
+Learn Kubernetes Event-driven Autoscaling (KEDA) to automatically scale applications based on events and metrics.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFEL1014-9C27B0?style=for-the-badge&logo=kubernetes" alt="Enroll LFEL1014"/></a>
+</p>
+</details>
+
+<details id="lfs142">
+<summary><b>🚪 LFS142 - Introduction to Backstage Developer Portals</b></summary>
+<br>
+<p>
+<b>Category:</b> Observability & Monitoring<br>
+<b>Level:</b> Intermediate<br>
+<b>Duration:</b> ~11 hours<br>
+<br>
+<b>Description:</b><br>
+Learn to build and manage developer portals with Backstage for improved developer experience and productivity.
+<br><br>
+<a href="https://trainingportal.linuxfoundation.org/"><img src="https://img.shields.io/badge/ENROLL-LFS142-9C27B0?style=for-the-badge&logo=backstage" alt="Enroll LFS142"/></a>
+</p>
+</details>
+
+<!-- Continue with remaining courses following the same pattern -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 ## 🗂️ Courses by Category
 
@@ -406,105 +584,51 @@ Comprehensive JavaScript security course covering common vulnerabilities, secure
 
 ### 🔧 **Core Linux & SysAdmin**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS101-Introduction_to_Linux-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFD103-Linux_Kernel_Development-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFD103"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFD116-Embedded_Systems-0066CC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="LFD116"/>
-</a>
+<a href="#lfs101"><img src="https://img.shields.io/badge/LFS101-Introduction_to_Linux-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/></a>
+<a href="#lfd103"><img src="https://img.shields.io/badge/LFD103-Linux_Kernel_Development-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFD103"/></a>
+<a href="#lfd116"><img src="https://img.shields.io/badge/LFD116-Embedded_Systems-0066CC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="LFD116"/></a>
 
 ### ☁️ **Cloud & DevOps**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS162-DevOps_&_SRE-00C853?style=for-the-badge&logo=docker&logoColor=white" alt="LFS162"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS169-GitOps-00C853?style=for-the-badge&logo=git&logoColor=white" alt="LFS169"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS157-Serverless_on_K8s-00C853?style=for-the-badge&logo=kubernetes&logoColor=white" alt="LFS157"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS148-OpenTelemetry-00C853?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFEL1009-OpenTofu-00C853?style=for-the-badge&logo=terraform&logoColor=white" alt="LFEL1009"/>
-</a>
+<a href="#lfs162"><img src="https://img.shields.io/badge/LFS162-DevOps_&_SRE-00C853?style=for-the-badge&logo=docker&logoColor=white" alt="LFS162"/></a>
+<a href="#lfs169"><img src="https://img.shields.io/badge/LFS169-GitOps-00C853?style=for-the-badge&logo=git&logoColor=white" alt="LFS169"/></a>
+<a href="#lfs157"><img src="https://img.shields.io/badge/LFS157-Serverless_on_K8s-00C853?style=for-the-badge&logo=kubernetes&logoColor=white" alt="LFS157"/></a>
+<a href="#lfs167"><img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/></a>
+<a href="#lfs148"><img src="https://img.shields.io/badge/LFS148-OpenTelemetry-00C853?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/></a>
+<a href="#lfel1009"><img src="https://img.shields.io/badge/LFEL1009-OpenTofu-00C853?style=for-the-badge&logo=terraform&logoColor=white" alt="LFEL1009"/></a>
 
 ### 🛡️ **Security & Hardening**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-E53935?style=for-the-badge&logo=security&logoColor=white" alt="LFC108"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS182-Supply_Chain_Security-E53935?style=for-the-badge&logo=shield&logoColor=white" alt="LFS182"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFD121-Secure_Software-E53935?style=for-the-badge&logo=codesandbox&logoColor=white" alt="LFD121"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS183-Zero_Trust-E53935?style=for-the-badge&logo=verified&logoColor=white" alt="LFS183"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS184-JavaScript_Security-E53935?style=for-the-badge&logo=javascript&logoColor=white" alt="LFS184"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFEL1006-OpenSSF_Scorecard-E53935?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="LFEL1006"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFEL1007-Automating_Supply_Chain-E53935?style=for-the-badge&logo=ansible&logoColor=white" alt="LFEL1007"/>
-</a>
+<a href="#lfc108"><img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-E53935?style=for-the-badge&logo=security&logoColor=white" alt="LFC108"/></a>
+<a href="#lfs182"><img src="https://img.shields.io/badge/LFS182-Supply_Chain_Security-E53935?style=for-the-badge&logo=shield&logoColor=white" alt="LFS182"/></a>
+<a href="#lfd121"><img src="https://img.shields.io/badge/LFD121-Secure_Software-E53935?style=for-the-badge&logo=codesandbox&logoColor=white" alt="LFD121"/></a>
+<a href="#lfs183"><img src="https://img.shields.io/badge/LFS183-Zero_Trust-E53935?style=for-the-badge&logo=verified&logoColor=white" alt="LFS183"/></a>
+<a href="#lfs184"><img src="https://img.shields.io/badge/LFS184-JavaScript_Security-E53935?style=for-the-badge&logo=javascript&logoColor=white" alt="LFS184"/></a>
+<a href="#lfel1006"><img src="https://img.shields.io/badge/LFEL1006-OpenSSF_Scorecard-E53935?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="LFEL1006"/></a>
+<a href="#lfel1007"><img src="https://img.shields.io/badge/LFEL1007-Automating_Supply_Chain-E53935?style=for-the-badge&logo=ansible&logoColor=white" alt="LFEL1007"/></a>
 
 ### 🐳 **Kubernetes & Containers**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS144-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFEL1014-KEDA-9C27B0?style=for-the-badge&logo=kubernetes&logoColor=white" alt="LFEL1014"/>
-</a>
+<a href="#lfs144"><img src="https://img.shields.io/badge/LFS144-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/></a>
+<a href="#lfs146"><img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/></a>
+<a href="#lfel1014"><img src="https://img.shields.io/badge/LFEL1014-KEDA-9C27B0?style=for-the-badge&logo=kubernetes&logoColor=white" alt="LFEL1014"/></a>
 
 ### 🔗 **CI/CD & Automation**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFD140-GitHub_for_Standards-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="LFD140"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFEL1007-Supply_Chain_Automation-FF6B35?style=for-the-badge&logo=ansible&logoColor=white" alt="LFEL1007"/>
-</a>
+<a href="#lfs167"><img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/></a>
+<a href="#lfd140"><img src="https://img.shields.io/badge/LFD140-GitHub_for_Standards-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="LFD140"/></a>
+<a href="#lfel1007"><img src="https://img.shields.io/badge/LFEL1007-Supply_Chain_Automation-FF6B35?style=for-the-badge&logo=ansible&logoColor=white" alt="LFEL1007"/></a>
 
 ### 📊 **Observability & Monitoring**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS148-OpenTelemetry-FF6B35?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS142-Backstage_Portals-9C27B0?style=for-the-badge&logo=backstage&logoColor=white" alt="LFS142"/>
-</a>
+<a href="#lfs148"><img src="https://img.shields.io/badge/LFS148-OpenTelemetry-FF6B35?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/></a>
+<a href="#lfs142"><img src="https://img.shields.io/badge/LFS142-Backstage_Portals-9C27B0?style=for-the-badge&logo=backstage&logoColor=white" alt="LFS142"/></a>
 
 ### 🌐 **Networking & Infrastructure**
 
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS144-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/>
-</a>
-<a href="https://trainingportal.linuxfoundation.org/">
-<img src="https://img.shields.io/badge/LFC191-eBPF_Basics-00BCD4?style=for-the-badge&logo=ebpf&logoColor=white" alt="LFC191"/>
-</a>
+<a href="#lfs144"><img src="https://img.shields.io/badge/LFS144-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/></a>
+<a href="#lfs146"><img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/></a>
+<a href="#lfc191"><img src="https://img.shields.io/badge/LFC191-eBPF_Basics-00BCD4?style=for-the-badge&logo=ebpf&logoColor=white" alt="LFC191"/></a>
 
 </div>
 
@@ -515,32 +639,29 @@ Comprehensive JavaScript security course covering common vulnerabilities, secure
 <div align="center">
 
 ### 🎯 **Path 1: Linux SysAdmin → DevOps Engineer**
+┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐
+│ LFS101 │ --> │ LFS162 │ --> │ LFS169 │ --> │ LFS167 │ --> │ LFS148 │
+│ Linux │ │ DevOps │ │ GitOps │ │ Jenkins │ │OpenTelem│
+└─────────┘ └─────────┘ └─────────┘ └─────────┘ └─────────┘
 
-```
-┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-│ LFS101  │ --> │ LFS162  │ --> │ LFS169  │ --> │ LFS167  │ --> │ LFS148  │
-│  Linux  │     │ DevOps  │     │ GitOps  │     │ Jenkins │     │OpenTelem│
-└─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘
-```
+text
 
 ### 🔒 **Path 2: Security-Focused Engineer**
+┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐
+│ LFS101 │ --> │ LFC108 │ --> │ LFD121 │ --> │ LFS182 │ --> │ LFS183 │
+│ Linux │ │CyberSec │ │ Secure │ │ Supply │ │ Zero │
+│ │ │ │ │Software │ │ Chain │ │ Trust │
+└─────────┘ └─────────┘ └─────────┘ └─────────┘ └─────────┘
 
-```
-┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-│ LFS101  │ --> │ LFC108  │ --> │ LFD121  │ --> │ LFS182  │ --> │ LFS183  │
-│  Linux  │     │CyberSec │     │ Secure  │     │ Supply  │     │  Zero   │
-│         │     │         │     │Software │     │ Chain   │     │  Trust  │
-└─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘
-```
+text
 
 ### ⚓ **Path 3: Kubernetes Engineer**
+┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐
+│ LFS101 │ --> │ LFS162 │ --> │ LFS157 │ --> │ LFS144 │ --> │ LFS146 │
+│ Linux │ │ DevOps │ │Serverles│ │ Istio │ │ Cilium │
+└─────────┘ └─────────┘ └─────────┘ └─────────┘ └─────────┘
 
-```
-┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-│ LFS101  │ --> │ LFS162  │ --> │ LFS157  │ --> │ LFS144  │ --> │ LFS146  │
-│  Linux  │     │ DevOps  │     │Serverles│     │  Istio  │     │ Cilium  │
-└─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘
-```
+text
 
 </div>
 
@@ -666,8 +787,6 @@ Advanced users: Try <b>LFS144 (Istio)</b> or <b>LFS146 (Cilium)</b>
 <p align="left">
 Yes! You have unlimited access to enrolled courses and can revisit materials anytime.
 </p>
-</details>
-
 </details>
 
 </div>
