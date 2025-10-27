@@ -1,10 +1,7 @@
 <div align="center">
-
-# 🚀 Linux Foundation Free Courses & Badges
-
-### **100% FREE courses with completion badges** from The Linux Foundation
-**No credit card • No hidden fees • Lifetime access to badges**
-
+🚀 Linux Foundation Free Courses & Badges
+100% FREE courses with completion badges from The Linux Foundation
+No credit card • No hidden fees • Lifetime access to badges
 <p align="center">
   <a href="https://trainingportal.linuxfoundation.org/">
     <img src="https://img.shields.io/badge/Linux_Foundation-Official-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation"/>
@@ -16,176 +13,201 @@
     <img src="https://img.shields.io/badge/Start-Learning-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Start Learning"/>
   </a>
 </p>
-
 <p align="center">
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-top-10-must-take-courses">Top 10 Courses</a> •
-  <a href="#-all-course-codes">All Courses</a> •
-  <a href="#-courses-by-category">Categories</a> •
-  <a href="#-recommended-learning-paths">Learning Paths</a> •
-  <a href="#-faq">FAQ</a>
+  <a href="#-quick-start">
+    <img src="https://img.shields.io/badge/Quick_Start-0066CC?style=flat-square&logo=rocket" alt="Quick Start"/>
+  </a>
+  •
+  <a href="#-top-10-must-take-courses">
+    <img src="https://img.shields.io/badge/Top_10_Courses-00C853?style=flat-square&logo=star" alt="Top 10"/>
+  </a>
+  •
+  <a href="#-all-course-codes">
+    <img src="https://img.shields.io/badge/All_Courses-FF6B35?style=flat-square&logo=bookstack" alt="All Courses"/>
+  </a>
+  •
+  <a href="#-courses-by-category">
+    <img src="https://img.shields.io/badge/Categories-9C27B0?style=flat-square&logo=list" alt="Categories"/>
+  </a>
+  •
+  <a href="#-recommended-learning-paths">
+    <img src="https://img.shields.io/badge/Learning_Paths-E53935?style=flat-square&logo=map" alt="Learning Paths"/>
+  </a>
+  •
+  <a href="#-faq">
+    <img src="https://img.shields.io/badge/FAQ-FFD700?style=flat-square&logo=question" alt="FAQ"/>
+  </a>
 </p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
-
 </div>
-
-## 🎯 Quick Start
-
+🎯 Quick Start
 <div align="center">
-
-```mermaid
-graph LR
-    A[Visit Portal] --> B[Create Account]
-    B --> C[Enter Course Code]
-    C --> D[Start Learning]
-    D --> E[Earn Badge 🏆]
-    
-    style A fill:#0066CC,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#00C853,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#FF6B35,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#9C27B0,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#FFD700,stroke:#fff,stroke-width:2px,color:#000
 ```
-
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│ Visit Portal│ --> │Create Account│ --> │Enter Code   │ --> │Start Learning│ --> │Earn Badge 🏆│
+└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+```
 <br>
-
 <a href="https://trainingportal.linuxfoundation.org/">
   <img src="https://img.shields.io/badge/🎓_ENROLL_NOW-Linux_Foundation_Portal-0066CC?style=for-the-badge&labelColor=000000" alt="Enroll Now" height="50"/>
 </a>
-
 </div>
 
----
-
-## 🏆 Top 10 Must-Take Courses
-
+🏆 Top 10 Must-Take Courses
 <div align="center">
-
-### 🥇 **TIER 1 - Essential Foundation**
-
+🥇 TIER 1 - Essential Foundation
 <table>
 <tr>
 <td width="20%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS101-Linux_Fundamentals-0066CC?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
 </a>
-
-**⭐⭐⭐⭐⭐**
-
-*The absolute foundation - START HERE*
-
+⭐⭐⭐⭐⭐
+The absolute foundation - START HERE
 </td>
 <td width="20%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS162-DevOps_&_SRE-00C853?style=for-the-badge&logo=docker&logoColor=white" alt="LFS162"/>
 </a>
-
-**⭐⭐⭐⭐⭐**
-
-*Core DevOps methodology*
-
+⭐⭐⭐⭐⭐
+Core DevOps methodology
 </td>
 <td width="20%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-E53935?style=for-the-badge&logo=security&logoColor=white" alt="LFC108"/>
 </a>
-
-**⭐⭐⭐⭐⭐**
-
-*Security fundamentals*
-
+⭐⭐⭐⭐⭐
+Security fundamentals
 </td>
 <td width="20%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS169-GitOps-FF6B35?style=for-the-badge&logo=git&logoColor=white" alt="LFS169"/>
 </a>
-
-**⭐⭐⭐⭐⭐**
-
-*Modern deployment standard*
-
+⭐⭐⭐⭐⭐
+Modern deployment standard
 </td>
 <td width="20%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS182-Supply_Chain_Security-9C27B0?style=for-the-badge&logo=shield&logoColor=white" alt="LFS182"/>
 </a>
-
-**⭐⭐⭐⭐⭐**
-
-*Critical cloud security*
-
+⭐⭐⭐⭐⭐
+Critical cloud security
 </td>
 </tr>
 </table>
-
-### 🥈 **TIER 2 - Level Up**
-
+🥈 TIER 2 - Level Up
 <table>
 <tr>
 <td width="33%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFD121-Secure_Software-E53935?style=for-the-badge&logo=codesandbox&logoColor=white" alt="LFD121"/>
 </a>
-
-**Secure coding practices**
-
+Secure coding practices
 </td>
 <td width="33%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS167-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="LFS167"/>
 </a>
-
-**CI/CD automation**
-
+CI/CD automation
 </td>
 <td width="33%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS148-OpenTelemetry-FF6B35?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="LFS148"/>
 </a>
-
-**Observability & monitoring**
-
+Observability & monitoring
 </td>
 </tr>
 </table>
-
-### 🥉 **TIER 3 - Advanced Mastery**
-
+🥉 TIER 3 - Advanced Mastery
 <table>
 <tr>
 <td width="50%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS144-Istio_Service_Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="LFS144"/>
 </a>
-
-**Advanced K8s networking**
-
+Advanced K8s networking
 </td>
 <td width="50%" align="center">
-
 <a href="https://trainingportal.linuxfoundation.org/">
 <img src="https://img.shields.io/badge/LFS146-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" alt="LFS146"/>
 </a>
-
-**eBPF-based networking & security**
-
+eBPF-based networking & security
 </td>
 </tr>
 </table>
-
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
+📚 All Course Codes
+<div align="center">
+
+Click any course code below to learn more • All courses available at trainingportal.linuxfoundation.org
+
+<br>
+🔤 Browse by Code
+<a href="#lfel1012"><img src="https://img.shields.io/badge/LFEL1012-0066CC?style=for-the-badge" alt="LFEL1012"/></a>
+<a href="#lfc191"><img src="https://img.shields.io/badge/LFC191-0066CC?style=for-the-badge" alt="LFC191"/></a>
+<a href="#lfd140"><img src="https://img.shields.io/badge/LFD140-0066CC?style=for-the-badge" alt="LFD140"/></a>
+<a href="#lfel1004"><img src="https://img.shields.io/badge/LFEL1004-0066CC?style=for-the-badge" alt="LFEL1004"/></a>
+<a href="#lfs184"><img src="https://img.shields.io/badge/LFS184-E53935?style=for-the-badge" alt="LFS184"/></a>
+<a href="#lfd123"><img src="https://img.shields.io/badge/LFD123-0066CC?style=for-the-badge" alt="LFD123"/></a>
+<a href="#lfel1001"><img src="https://img.shields.io/badge/LFEL1001-0066CC?style=for-the-badge" alt="LFEL1001"/></a>
+<a href="#lfd125"><img src="https://img.shields.io/badge/LFD125-0066CC?style=for-the-badge" alt="LFD125"/></a>
+<a href="#lfd141"><img src="https://img.shields.io/badge/LFD141-0066CC?style=for-the-badge" alt="LFD141"/></a>
+<a href="#lfs120"><img src="https://img.shields.io/badge/LFS120-0066CC?style=for-the-badge" alt="LFS120"/></a>
+<a href="#lfel1009"><img src="https://img.shields.io/badge/LFEL1009-00C853?style=for-the-badge" alt="LFEL1009"/></a>
+<a href="#lfs148"><img src="https://img.shields.io/badge/LFS148-FF6B35?style=for-the-badge" alt="LFS148"/></a>
+<a href="#lfel1016"><img src="https://img.shields.io/badge/LFEL1016-0066CC?style=for-the-badge" alt="LFEL1016"/></a>
+<a href="#lfel1010"><img src="https://img.shields.io/badge/LFEL1010-0066CC?style=for-the-badge" alt="LFEL1010"/></a>
+<a href="#lfs111"><img src="https://img.shields.io/badge/LFS111-0066CC?style=for-the-badge" alt="LFS111"/></a>
+<a href="#lfs147"><img src="https://img.shields.io/badge/LFS147-0066CC?style=for-the-badge" alt="LFS147"/></a>
+<a href="#lfel1011"><img src="https://img.shields.io/badge/LFEL1011-0066CC?style=for-the-badge" alt="LFEL1011"/></a>
+<a href="#lfc120"><img src="https://img.shields.io/badge/LFC120-0066CC?style=for-the-badge" alt="LFC120"/></a>
+<a href="#lfel1014"><img src="https://img.shields.io/badge/LFEL1014-9C27B0?style=for-the-badge" alt="LFEL1014"/></a>
+<a href="#lfd110"><img src="https://img.shields.io/badge/LFD110-0066CC?style=for-the-badge" alt="LFD110"/></a>
+<a href="#lfs183"><img src="https://img.shields.io/badge/LFS183-E53935?style=for-the-badge" alt="LFS183"/></a>
+<a href="#lfs179"><img src="https://img.shields.io/badge/LFS179-0066CC?style=for-the-badge" alt="LFS179"/></a>
+<a href="#lfc114"><img src="https://img.shields.io/badge/LFC114-0066CC?style=for-the-badge" alt="LFC114"/></a>
+<a href="#lfc112"><img src="https://img.shields.io/badge/LFC112-0066CC?style=for-the-badge" alt="LFC112"/></a>
+<a href="#lfc111"><img src="https://img.shields.io/badge/LFC111-0066CC?style=for-the-badge" alt="LFC111"/></a>
+<a href="#lfel1002"><img src="https://img.shields.io/badge/LFEL1002-0066CC?style=for-the-badge" alt="LFEL1002"/></a>
+<a href="#lfd137"><img src="https://img.shields.io/badge/LFD137-0066CC?style=for-the-badge" alt="LFD137"/></a>
+<a href="#lfs118"><img src="https://img.shields.io/badge/LFS118-0066CC?style=for-the-badge" alt="LFS118"/></a>
+<a href="#lfel1007"><img src="https://img.shields.io/badge/LFEL1007-E53935?style=for-the-badge" alt="LFEL1007"/></a>
+<a href="#lfs146"><img src="https://img.shields.io/badge/LFS146-F8C517?style=for-the-badge" alt="LFS146"/></a>
+<a href="#lfel1006"><img src="https://img.shields.io/badge/LFEL1006-E53935?style=for-the-badge" alt="LFEL1006"/></a>
+<a href="#lfel1005"><img src="https://img.shields.io/badge/LFEL1005-0066CC?style=for-the-badge" alt="LFEL1005"/></a>
+<a href="#lfel1003"><img src="https://img.shields.io/badge/LFEL1003-0066CC?style=for-the-badge" alt="LFEL1003"/></a>
+<a href="#lfq102"><img src="https://img.shields.io/badge/LFQ102-0066CC?style=for-the-badge" alt="LFQ102"/></a>
+<a href="#lfel1000"><img src="https://img.shields.io/badge/LFEL1000-0066CC?style=for-the-badge" alt="LFEL1000"/></a>
+<a href="#lfd134"><img src="https://img.shields.io/badge/LFD134-0066CC?style=for-the-badge" alt="LFD134"/></a>
+<a href="#lfs144"><img src="https://img.shields.io/badge/LFS144-466BB0?style=for-the-badge" alt="LFS144"/></a>
+<a href="#lfd133"><img src="https://img.shields.io/badge/LFD133-0066CC?style=for-the-badge" alt="LFD133"/></a>
+<a href="#lfs145"><img src="https://img.shields.io/badge/LFS145-0066CC?style=for-the-badge" alt="LFS145"/></a>
+<a href="#lfc108"><img src="https://img.shields.io/badge/LFC108-E53935?style=for-the-badge" alt="LFC108"/></a>
+<a href="#lfs101"><img src="https://img.shields.io/badge/LFS101-0066CC?style=for-the-badge" alt="LFS101"/></a>
+<a href="#lfc105"><img src="https://img.shields.io/badge/LFC105-0066CC?style=for-the-badge" alt="LFC105"/></a>
+<a href="#lfc131"><img src="https://img.shields.io/badge/LFC131-0066CC?style=for-the-badge" alt="LFC131"/></a>
+<a href="#lfs142"><img src="https://img.shields.io/badge/LFS142-9C27B0?style=for-the-badge" alt="LFS142"/></a>
+<a href="#lfs116"><img src="https://img.shields.io/badge/LFS116-0066CC?style=for-the-badge" alt="LFS116"/></a>
+<a href="#lfd116"><img src="https://img.shields.io/badge/LFD116-0066CC?style=for-the-badge" alt="LFD116"/></a>
+<a href="#lfq101"><img src="https://img.shields.io/badge/LFQ101-0066CC?style=for-the-badge" alt="LFQ101"/></a>
+<a href="#lfs182"><img src="https://img.shields.io/badge/LFS182-9C27B0?style=for-the-badge" alt="LFS182"/></a>
+<a href="#lfs180"><img src="https://img.shields.io/badge/LFS180-0066CC?style=for-the-badge" alt="LFS180"/></a>
+<a href="#lfc194"><img src="https://img.shields.io/badge/LFC194-0066CC?style=for-the-badge" alt="LFC194"/></a>
+<a href="#lfc104"><img src="https://img.shields.io/badge/LFC104-0066CC?style=for-the-badge" alt="LFC104"/></a>
+<a href="#lfs162"><img src="https://img.shields.io/badge/LFS162-00C853?style=for-the-badge" alt="LFS162"/></a>
+<a href="#lfs157"><img src="https://img.shields.io/badge/LFS157-00C853?style=for-the-badge" alt="LFS157"/></a>
+<a href="#lfs170"><img src="https://img.shields.io/badge/LFS170-0066CC?style=for-the-badge" alt="LFS170"/></a>
+<a href="#lfd121"><img src="https://img.shields.io/badge/LFD121-E53935?style=for-the-badge" alt="LFD121"/></a>
+<a href="#lfs167"><img src="https://img.shields.io/badge/LFS167-D24939?style=for-the-badge" alt="LFS167"/></a>
+<a href="#lfc193"><img src="https://img.shields.io/badge/LFC193-0066CC?style=for-the-badge" alt="LFC193"/></a>
+<a href="#lfw111x"><img src="https://img.shields.io/badge/LFW111X-0066CC?style=for-the-badge" alt="LFW111X"/></a>
+<a href="#lfs169"><img src="https://img.shields.io/badge/LFS169-FF6B35?style=for-the-badge" alt="LFS169"/></a>
+<a href="#lfc102"><img src="https://img.shields.io/badge/LFC102-0066CC?style=for-the-badge" alt="LFC102"/></a>
+<a href="#lfd103"><img src="https://img.shields.io/badge/LFD103-0066CC?style=for-the-badge" alt="LFD103"/></a>
+<br><br>
+Total: 61 FREE courses with digital badges 🎖️
+</div>
 
 ## 📚 All Course Codes
 
